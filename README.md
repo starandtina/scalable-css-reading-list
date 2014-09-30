@@ -18,8 +18,6 @@ Included are resources that articulate key principles and practices. The list is
 
 Newest on top, oldest on bottom.
 
-- [Refining The Way We Structure Our CSS At Trello](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/), by Bobby Grace (9/11/14)
-- [Medium's CSS is actually pretty f\*\*\*ing good](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06), by Jacob Thornton (8/28/14)
 - [Used and Abused -- CSS Inheritance and Our Misuse of the Cascade](http://www.phase2technology.com/blog/used-and-abused-css-inheritance-and-our-misuse-of-the-cascade/?utm_source=CSS-Weekly&utm_campaign=Issue-127&utm_medium=RSS), by Micah Godbolt (8/25/14)
 - [Enduring CSS: writing style sheets for rapidly changing, long-lived projects](http://benfrain.com/enduring-css-writing-style-sheets-rapidly-changing-long-lived-projects), by Ben Frain (8/7/14)
 - [Challenging CSS Best Practices](http://www.smashingmagazine.com/2013/10/21/challenging-css-best-practices-atomic-approach/) -- suggesting a unique approach (all utility classes) the author calls Atomic CSS -- by Thierry Koblentz (10/21/13)
@@ -35,6 +33,7 @@ Newest on top, oldest on bottom.
 - [An Introduction to Object Oriented CSS (OOCSS)](http://www.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/), by Louis Lazaris (12/12/11)
 
 ## Authoring Frameworks & Longer Readings
+
 - [CSS Guidelines](http://cssguidelin.es/), by Harry Roberts
 - [Scalable and Modular Architecture for CSS](https://smacss.com/), by Jonathan Snook
 - [SUIT CSS Documentation](https://github.com/suitcss/suit/blob/master/doc/README.md), by Nicolas Gallagher
@@ -52,6 +51,21 @@ These styleguides articulate conventions and guidelines for authoring scalable C
 - [Github](https://github.com/styleguide/css)
 - [Medium](https://gist.github.com/fat/a47b882eb5f84293c4ed)
 - [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml#CSS_Style_Rules)
+
+
+## Workflow Overviews
+
+> How we do CSS at [blank] ...
+
+Articles providing overviews of real-life CSS methodologies for production sites and apps of significant scale. Although these articles generally don't include principles that are not better explained in the articles and longer reads above, they are so pragmatic and concrete that they are important reads in their own right. Newest first.
+
+- [Refining the Way We Structure Our CSS at Trello](http://blog.trello.com/refining-the-way-we-structure-our-css-at-trello/), by Bobby Grace (11/11/14)
+- [Medium's CSS is actually pretty f\*\*\*ing good](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06), by Jacob Thornton (8/28/14)
+- [CSS at Groupon](http://mikeaparicio.com/2014/08/10/css-at-groupon/), by Mike Aparicio (8/10/14)
+- [Codepen's CSS](http://codepen.io/chriscoyier/blog/codepens-css), by Chris Coyier (7/30/14)
+- [CSS at Lonely Planet](http://ianfeather.co.uk/css-at-lonely-planet/), by Ian Feather (7/24/14)
+- [Github's CSS](http://markdotto.com/2014/07/23/githubs-css/), by Mark Otto (7/23/14)
+
 
 ## Talks
 
